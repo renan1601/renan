@@ -1,0 +1,4 @@
+função soma(a, b){
+    escreva o resultado= a + b
+}
+  
